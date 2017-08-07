@@ -18,4 +18,14 @@ A perl script to generate the weight for each feature
 
 2. LASSO tools
 
-a)
+a) make_lasso_fea.pl 
+
+A perl script to generate training data for the LASSO model from TFSearch outputs.
+
+b) make_lasso_fea.pl
+
+A perl script to generate prediction data from TFSearch outputs.
+
+c) lasso.R
+
+R script to implement the LASSO model.
